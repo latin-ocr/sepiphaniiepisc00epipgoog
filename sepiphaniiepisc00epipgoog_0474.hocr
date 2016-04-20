@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sepiphaniiepisc00epipgoog_0474.png"; bbox 0 0 3650 5642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1001 4819 1145 4918">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1001 4819 1145 4918">
+     <span class='ocr_line' id='line_1_1' title="bbox 1001 4819 1145 4918; baseline 0.042 -5"><span class='ocrx_word' id='word_1_1' title='bbox 1001 4819 1145 4918; x_wconf 60' lang='lat' dir='ltr'><em>&lt;Acme</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 912 4947 1228 5176">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 912 4947 1228 5176">
+     <span class='ocr_line' id='line_1_2' title="bbox 923 4947 1217 5010; baseline 0.024 -13"><span class='ocrx_word' id='word_1_2' title='bbox 923 4947 1084 5010; x_wconf 69' lang='lat' dir='ltr'><strong>Bookbindinfl</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1101 4949 1150 5007; x_wconf 75' lang='lat' dir='ltr'><strong>co..</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1170 4951 1217 5004; x_wconf 68' lang='lat' dir='ltr'>inc.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 945 5030 1197 5096; baseline 0.024 -16"><span class='ocrx_word' id='word_1_5' title='bbox 945 5030 991 5082; x_wconf 85' lang='lat'>1⁰0</span> <span class='ocrx_word' id='word_1_6' title='bbox 1009 5033 1147 5096; x_wconf 71' lang='lat' dir='ltr'>cnmbndao</span> <span class='ocrx_word' id='word_1_7' title='bbox 1163 5035 1197 5088; x_wconf 74' lang='lat' dir='ltr'>St.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 912 5110 1228 5176; baseline 0.025 -12"><span class='ocrx_word' id='word_1_8' title='bbox 912 5110 1080 5176; x_wconf 75' lang='lat' dir='ltr'>charlestown,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1095 5119 1133 5169; x_wconf 76' lang='grc' dir='ltr'>ΜΛ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1146 5117 1228 5172; x_wconf 78' lang='grc'><strong>02129</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1830 5642">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1830 5642">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1830 5642; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1830 5642; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
